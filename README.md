@@ -1,5 +1,6 @@
-👋 # Hi, I’m Trang Phan! <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
-<a href=[https://www.linkedin.com/in/trangpnh/](https://www.linkedin.com/in/trangpnh/)> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=trangphann&color=blue">
+### 👋 Hi, I’m Trang Phan! <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
+
+<a href=https://www.linkedin.com/in/trangpnh/(https://www.linkedin.com/in/trangpnh/)> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=trangphann&color=blue">
 
 Here are some ideas to get you started:
 - 📫 How to reach me: hoangtrangphan47@gmail.com
